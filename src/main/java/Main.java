@@ -21,7 +21,7 @@ public class Main {
         viVietProduct.setMerch_txn_ref("" + new Date().getTime());
         viVietProduct.setMethods("");
         viVietProduct.setOrder_no("ORDER_1550215482761");
-        viVietProduct.setOrder_desc("XTIWEB_20210426056529_BaoHiemNha_TFBCI3ZpZXRkdkB4dGkuY29tLnZu_1619416692633");
+        viVietProduct.setOrder_desc("mua chó");
         viVietProduct.setTotal_amount("20000000");
         viVietProduct.setBranch_code("00001");
         viVietProduct.setClient_ip("127.0.0.1");
